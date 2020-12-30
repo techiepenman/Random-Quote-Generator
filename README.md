@@ -9,4 +9,4 @@ CSS
 JavaScript
 
 ## Credits
-The HTML and CSS have been coded by Treehouse as part of the Techdegree program, giving the students the opportunity to focus on the JavaScript part of the app.
+The HTML and CSS have been coded by Treehouse as part of the Techdegree program, giving the student the opportunity to code the JavaScript part of the app.
